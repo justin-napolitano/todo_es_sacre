@@ -4,7 +4,7 @@ description = "Every action matters"
 author = "Justin Napolitano"
 tags = ["lifestyle","anxiety"]
 images = ["images/feature-image.png"]
-categories = ["Personal"]
+categories = ["reflection"]
 date = "2024-06-30"
 +++
 
