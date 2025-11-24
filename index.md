@@ -1,12 +1,27 @@
 ---
-slug: "github-todo-es-sacre"
-title: "todo_es_sacre"
-repo: "justin-napolitano/todo_es_sacre"
-githubUrl: "https://github.com/justin-napolitano/todo_es_sacre"
-generatedAt: "2025-11-23T09:47:35.797378Z"
-source: "github-auto"
+slug: github-todo-es-sacre
+title: Technical Reflection on Managing Markdown Content with TOML Metadata
+repo: justin-napolitano/todo_es_sacre
+githubUrl: https://github.com/justin-napolitano/todo_es_sacre
+generatedAt: '2025-11-23T09:47:35.797378Z'
+source: github-auto
+summary: >-
+  Analysis of using Markdown with TOML front matter for structuring reflective content and enabling
+  static site integration and version control.
+tags:
+  - markdown
+  - toml
+  - static-site-generator
+  - content-management
+  - github
+  - version-control
+seoPrimaryKeyword: markdown with toml metadata
+seoSecondaryKeywords:
+  - static site generator
+  - content management
+  - github version control
+seoOptimized: true
 ---
-
 
 # Technical Reflection on "Everything Matters" Document
 
