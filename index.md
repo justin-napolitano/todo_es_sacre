@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - content management
   - github version control
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses on managing Markdown content with TOML metadata intended for static site
+  integration and version control, matching the 'Static' family's focus on static site and blog
+  projects using Hugo and related tooling.
 ---
 
 # Technical Reflection on "Everything Matters" Document
@@ -68,3 +74,4 @@ The repository addresses the need for maintaining reflective content in a struct
 ## Summary
 
 This repository exemplifies a minimalist approach to managing reflective content with embedded metadata for potential web publication. The technical choices favor simplicity, portability, and extensibility, providing a foundation for future enhancements aligned with static content management best practices.
+
