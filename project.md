@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/todo_es_sacre
 generatedAt: '2025-11-24T21:36:41.257Z'
 source: github-auto
 summary: >-
-  Explore a Markdown-based reflective essay project with metadata for static
-  site integration and future development plans.
+  Explore a Markdown-based reflective essay project with metadata for static site integration and
+  future development plans.
 tags:
   - markdown
   - static site generators
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - project roadmap
   - essay writing in markdown
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -80,3 +80,4 @@ index.md           # Main reflective essay with front matter metadata
 ---
 
 *Note: The primary language and specific tooling are not defined and should be clarified based on future project direction.*
+
