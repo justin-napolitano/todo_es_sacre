@@ -1,20 +1,28 @@
 ---
 slug: github-todo-es-sacre
 id: github-todo-es-sacre
-title: todo_es_sacre
+title: Markdown Reflective Essay Project Overview
 repo: justin-napolitano/todo_es_sacre
 githubUrl: https://github.com/justin-napolitano/todo_es_sacre
 generatedAt: '2025-11-24T21:36:41.257Z'
 source: github-auto
 summary: >-
-  This repository contains a personal reflective document titled "Everything
-  Matters" authored by Justin Napolitano. The project appears to be a
-  contemplative piece on the significance of details and reverence in everyday
-  life, presented in Markdown format.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a Markdown-based reflective essay project with metadata for static
+  site integration and future development plans.
+tags:
+  - markdown
+  - static site generators
+  - hugo
+  - jekyll
+  - front matter
+  - TOML
+seoPrimaryKeyword: markdown reflective essay project
+seoSecondaryKeywords:
+  - static site integration
+  - metadata in markdown
+  - project roadmap
+  - essay writing in markdown
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
